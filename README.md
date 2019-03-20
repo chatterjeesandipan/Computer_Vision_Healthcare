@@ -1,5 +1,5 @@
 # Chest X-ray Classification Problem (Kaggle)
-Using VGG and ResNet style computer vision architectures for simple object classification problems
+Aim: Using VGG and ResNet style computer vision architectures for simple object classification problems in healthcare industry.
 
 I am new to the field of computer vision and ML/DL. Hence, I mostly refer to the Youtube videos on the above topics and practice my concepts on Kaggle datasets. I am a beginner in this field and any help from you (for this project or in general, Python and ML/DL) would be appreciated.
 
